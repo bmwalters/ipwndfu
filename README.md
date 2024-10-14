@@ -66,6 +66,7 @@
 This tool should be compatible with Mac and Linux. It won't work in a virtual machine.
 
 * libusb, `If you are using Linux: install libusb using your package manager.`
+* pyusb, `pip install pyusb`
 * [iPhone 3GS iOS 4.3.5 iBSS](#ibss)
 
 
@@ -138,5 +139,3 @@ posixninja and pod2g for SHAtter exploit
 chronic, CPICH, ius, MuscleNerd, Planetbeing, pod2g, posixninja, et al. for 24Kpwn exploit
 
 pod2g for steaks4uce exploit
-
-walac for pyusb
